@@ -1,0 +1,15 @@
+{
+    "name": "foxital/testphp",
+    "autoload": {
+        "psr-4": {
+            "Foxital\\Testphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "loicordono",
+            "email": "124904969+loicordono@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
